@@ -1,4 +1,5 @@
 # workers-graphql-server
+[![Deploy to Cloudflare Workers](https://github.com/sun816/workers-graphql-server/actions/workflows/deploy.yml/badge.svg)](https://github.com/sun816/workers-graphql-server/actions/workflows/deploy.yml)
 
 An [Apollo GraphQL](https://www.apollographql.com/) server, built with [Cloudflare Workers](https://workers.cloudflare.com). [Try a demo by looking at a deployed GraphQL playground](https://graphql-on-workers.signalnerve.com/___graphql).
 
